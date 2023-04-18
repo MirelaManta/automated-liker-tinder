@@ -1,8 +1,7 @@
 # Tinder Auto Liker
 
 This project is an automation script written in Python, using Selenium, that logs into your Tinder account using Facebook credentials, and automatically swipes right (i.e., "likes") 100 profiles in succession, allowing you to easily find matches.
-Installation
-
+## Installation
 To run this script, you need to have the following libraries installed:
 * Selenium
 * python-dotenv
